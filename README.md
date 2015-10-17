@@ -1,6 +1,6 @@
 # Reading List
 
-A collection of papers and books that Storey Lab members should read and others may find useful.
+A collection of papers and books that Storey Lab members should read and that others may find useful.
 
 # Books
 
@@ -14,9 +14,13 @@ A collection of papers and books that Storey Lab members should read and others 
 
 [*All of Statistics*, Wasserman](http://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721/)
 
-[*Elements of Statistical Learning*, Hastie, Tibshirani, Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+[*Elements of Statistical Learning*, Hastie, Tibshirani, and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
+[*Advanced R*, Wickham](http://adv-r.had.co.nz)
 
 [*Statistical Models: Theory and Practice*, Freedman](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850/)
+
+[*Bayesian Data Analysis*, Gelman et al.](http://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/)
 
 [*Machine Learning: A Probabilistic Perspective*, Murphy](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/)
 
