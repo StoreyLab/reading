@@ -50,6 +50,19 @@ As above, I recommend reading the following books in the order they are listed. 
 
 ## More Specialized
 
+[*Introduction to Probability*, Blitzstein and Hwang](http://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/)
+
+*An Introduction to Probability Theory and Its Applications*, Feller: [Volume 1](http://www.amazon.com/Introduction-Probability-Theory-Applications-Vol/dp/0471257087/) [Volume 2](http://www.amazon.com/Introduction-Probability-Theory-Applications-Vol/dp/0471257095/)
+
+[*Probability and Martingales*, Williams](http://www.amazon.com/Probability-Martingales-Cambridge-Mathematical-Textbooks/dp/0521406056/)
+
+[*Principal Component Analysis*, Jolliffe](http://www.amazon.com/Principal-Component-Analysis-Springer-Statistics/dp/0387954422/)
+
+[*Latent Variable Models and Factor Analysis: A Unified Approach*, Bartholomew et al.](http://www.amazon.com/Latent-Variable-Models-Factor-Analysis/dp/0470971924/)
+
+[*Multivariate Analysis*, Mardia, Kent, and Bibby](http://www.amazon.com/Multivariate-Analysis-Probability-Mathematical-Statistics/dp/0124712525/)
+
+
 ## Simply Statistics
 
 The [Simply Statistics](http://simplystatistics.org) team have written a bunch of awesome books recently.  I recommend checking out all of them.
