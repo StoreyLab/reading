@@ -1,4 +1,4 @@
-# Reading List
+# Storey Lab Reading List
 
 A collection of papers and books that Storey Lab members should read and that others may find useful.
 
