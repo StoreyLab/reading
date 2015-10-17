@@ -1,4 +1,4 @@
-# Storey Lab Reading List
+# Reading List
 
 A collection of papers and books that Storey Lab members should read and that others may find useful.
 
@@ -6,7 +6,13 @@ A collection of papers and books that Storey Lab members should read and that ot
 
 ## Background
 
+I recommend reading the following books in the order they are listed.  As of now, there are no books listed on Python or C++, but I also recommend learning the basics of both of those languages.
+
 [*Statistical Inference*, Casella and Berger](http://www.amazon.com/Statistical-Inference-Wadsworth-Statistics-Probability/dp/0534119581/)
+
+[*Statistical Models: Theory and Practice*, Freedman](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850/)
+
+[*Introductory Statistics with R*, Dalgaard](http://www.amazon.com/Introductory-Statistics-R-Computing/dp/0387790535/)
 
 [*Nonparametric Regression and Generalized Linear Models: A roughness penalty approach*, Green and Silverman](http://www.amazon.com/Nonparametric-Regression-Generalized-Linear-Models/dp/0412300400/)
 
@@ -18,8 +24,6 @@ A collection of papers and books that Storey Lab members should read and that ot
 
 [*Advanced R*, Wickham](http://adv-r.had.co.nz)
 
-[*Statistical Models: Theory and Practice*, Freedman](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850/)
-
 [*Bayesian Data Analysis*, Gelman et al.](http://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/)
 
 [*Machine Learning: A Probabilistic Perspective*, Murphy](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/)
@@ -27,6 +31,21 @@ A collection of papers and books that Storey Lab members should read and that ot
 [*Pattern Recognition and Machine Learning*, Bishop](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/)
 
 ## More Specialized
+
+## Simply Statistics
+
+The [Simply Statistics](http://simplystatistics.org) team have written a bunch of awesome books recently.  I recommend checking out all of them.
+
+[*The Elements of Data Analytic Style*, Leek](https://leanpub.com/datastyle)
+
+[*The Art of Data Science*, Peng and Matsui](https://leanpub.com/artofdatascience)
+
+[*Data Analysis for the Life Sciences*, Irizarry and Love](https://leanpub.com/dataanalysisforthelifesciences)
+
+[*Exploratory Data Analysis with R*, Peng](https://leanpub.com/exdata)
+
+[*R Programming for Data Science*, Peng](https://leanpub.com/rprogramming)
+
 
 # Classic Articles
 
