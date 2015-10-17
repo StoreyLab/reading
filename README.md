@@ -22,7 +22,7 @@ I recommend reading the following books in the order they are listed. I don't ha
 
 [*All of Statistics*, Wasserman](http://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721/)
 
-[*Elements of Statistical Learning*, Hastie, Tibshirani, and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+[*An Introduction to Statistical Learning: with Applications in R*, James et al.](http://www-bcf.usc.edu/~gareth/ISL/)
 
 [*Learn Python*](http://www.learnpython.org)
 
@@ -30,9 +30,7 @@ I recommend reading the following books in the order they are listed. I don't ha
 
 [*Machine Learning: A Probabilistic Perspective*, Murphy](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/)
 
-[*Pattern Recognition and Machine Learning*, Bishop](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/)
-
-## Background on Genomics and Biology
+## Background in Genomics and Biology
 
 As above, I recommend reading the following books in the order they are listed.  Keep in mind that genomics books easily become outdated due to how rapidly the field evolves, so please follow up any topics of interest in the most current literature.
 
@@ -48,7 +46,11 @@ As above, I recommend reading the following books in the order they are listed. 
 
 [*Population Genetics: A Concise Guide*, Gillespie](http://www.amazon.com/Population-Genetics-John-H-Gillespie/dp/0801880092/)
 
-## More Specialized
+## More Specialized or Advanced
+
+[*Elements of Statistical Learning*, Hastie, Tibshirani, and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
+[*Pattern Recognition and Machine Learning*, Bishop](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/)
 
 [*Introduction to Probability*, Blitzstein and Hwang](http://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/)
 
@@ -62,6 +64,13 @@ As above, I recommend reading the following books in the order they are listed. 
 
 [*Multivariate Analysis*, Mardia, Kent, and Bibby](http://www.amazon.com/Multivariate-Analysis-Probability-Mathematical-Statistics/dp/0124712525/)
 
+[*Statistical Learning with Sparsity: The Lasso and Generalizations*, Hastie, Tibshirani, and Wainwright](http://amzn.com/1498712169)
+
+[*The Science of Bradley Efron: Selected Papers*, Morris and Tibshirani](http://amzn.com/0387756914)
+
+[*Asymptotic Statistics*, van der Vaart](http://amzn.com/0521784506)
+
+[*Molecular Biology of the Cell*, Alberts et al.](http://amzn.com/0815344325)
 
 ## Simply Statistics
 
