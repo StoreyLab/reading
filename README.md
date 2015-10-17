@@ -74,6 +74,10 @@ As above, I recommend reading the following books in the order they are listed. 
 
 [*Molecular Biology of the Cell*, Alberts et al.](http://amzn.com/0815344325)
 
+[*Learning from Data*, Abu-Mostafa, Magdon-Ismail, and Lin](http://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/)
+
+[*Graphical Models, Exponential Families, and Variational Inference*, Wainwright and Jordan](http://dl.acm.org/citation.cfm?id=1498841)
+
 ## Simply Statistics
 
 The [Simply Statistics](http://simplystatistics.org) team have written a bunch of awesome books recently.  I recommend checking out all of them.
