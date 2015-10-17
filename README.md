@@ -4,9 +4,9 @@ A collection of papers and books that Storey Lab members should read and that ot
 
 # Books
 
-## Background
+## Background in Statistics, Machine Learning, and Programming
 
-I recommend reading the following books in the order they are listed.  As of now, there are no books listed on C++, but I also recommend learning the basics of this language.
+I recommend reading the following books in the order they are listed. I don't have any books listed for C++, but I recommend learning the basics of this language.
 
 [*Statistical Inference*, Casella and Berger](http://www.amazon.com/Statistical-Inference-Wadsworth-Statistics-Probability/dp/0534119581/)
 
@@ -31,6 +31,22 @@ I recommend reading the following books in the order they are listed.  As of now
 [*Machine Learning: A Probabilistic Perspective*, Murphy](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/)
 
 [*Pattern Recognition and Machine Learning*, Bishop](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/)
+
+## Background on Genomics and Biology
+
+As above, I recommend reading the following books in the order they are listed.  Keep in mind that genomics books easily become out of date, so please follow up any topics of interest in the most current literature.
+
+[*Essential Cell Biology*, Alberts et al.](http://www.amazon.com/Essential-Cell-Biology-Bruce-Alberts/dp/0815344546/)
+
+[*A Primer of Genome Science*, Gibson and Muse](http://www.amazon.com/Primer-Genome-Science-Third-Edition/dp/0878932364/)
+
+[*Genomes 3*, Brown](http://www.amazon.com/Genomes-3-T-A-Brown/dp/0815341385/) -- or *Genomes X* if *X > 3* is available.
+
+[*Bioinformatics and Functional Genomics*, Pevsner](http://www.amazon.com/Bioinformatics-Functional-Genomics-Jonathan-Pevsner/dp/0470085851/)
+
+[*Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids*, Durbin et al.](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713/)
+
+[*Population Genetics: A Concise Guide*, Gillespie](http://www.amazon.com/Population-Genetics-John-H-Gillespie/dp/0801880092/)
 
 ## More Specialized
 
