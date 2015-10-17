@@ -24,7 +24,7 @@ I recommend reading the following books in the order they are listed.  As of now
 
 [*Elements of Statistical Learning*, Hastie, Tibshirani, and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
-[*Learn Pythin](http://www.learnpython.org)
+[*Learn Python*](http://www.learnpython.org)
 
 [*Bayesian Data Analysis*, Gelman et al.](http://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/)
 
