@@ -76,7 +76,7 @@ As above, I recommend reading the following books in the order they are listed. 
 
 [*Learning from Data*, Abu-Mostafa, Magdon-Ismail, and Lin](http://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/)
 
-[*Graphical Models, Exponential Families, and Variational Inference*, Wainwright and Jordan](http://dl.acm.org/citation.cfm?id=1498841)
+[*Graphical Models, Exponential Families, and Variational Inference*, Wainwright and Jordan](http://www.nowpublishers.com/article/Details/MAL-001)
 
 ## Simply Statistics
 
