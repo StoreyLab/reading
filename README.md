@@ -26,6 +26,8 @@ I recommend reading the following books in the order they are listed. I don't ha
 
 [*Learn Python*](http://www.learnpython.org)
 
+[*A First Course in Bayesian Statistical Methods*, Hoff](http://amzn.com/0387922997)
+
 [*Bayesian Data Analysis*, Gelman et al.](http://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/)
 
 [*Machine Learning: A Probabilistic Perspective*, Murphy](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/)
