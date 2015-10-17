@@ -6,7 +6,7 @@ A collection of papers and books that Storey Lab members should read and that ot
 
 ## Background
 
-I recommend reading the following books in the order they are listed.  As of now, there are no books listed on Python or C++, but I also recommend learning the basics of both of those languages.
+I recommend reading the following books in the order they are listed.  As of now, there are no books listed on C++, but I also recommend learning the basics of this language.
 
 [*Statistical Inference*, Casella and Berger](http://www.amazon.com/Statistical-Inference-Wadsworth-Statistics-Probability/dp/0534119581/)
 
