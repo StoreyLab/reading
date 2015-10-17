@@ -34,7 +34,7 @@ I recommend reading the following books in the order they are listed. I don't ha
 
 ## Background on Genomics and Biology
 
-As above, I recommend reading the following books in the order they are listed.  Keep in mind that genomics books easily become out of date, so please follow up any topics of interest in the most current literature.
+As above, I recommend reading the following books in the order they are listed.  Keep in mind that genomics books easily become outdated due to how rapidly the field evolves, so please follow up any topics of interest in the most current literature.
 
 [*Essential Cell Biology*, Alberts et al.](http://www.amazon.com/Essential-Cell-Biology-Bruce-Alberts/dp/0815344546/)
 
@@ -75,13 +75,8 @@ The [Simply Statistics](http://simplystatistics.org) team have written a bunch o
 
 ## Other
 
-# More Recent Articles
+# Storey Articles
 
-## Statistics
+I suggest you read these papers before joining.  They are fundamental to the research that we do.
 
-## Genomics
-
-## Machine Learning
-
-## Other
 
