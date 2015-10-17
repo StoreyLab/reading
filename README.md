@@ -14,6 +14,8 @@ I recommend reading the following books in the order they are listed.  As of now
 
 [*Introductory Statistics with R*, Dalgaard](http://www.amazon.com/Introductory-Statistics-R-Computing/dp/0387790535/)
 
+[*Advanced R*, Wickham](http://adv-r.had.co.nz)
+
 [*Nonparametric Regression and Generalized Linear Models: A roughness penalty approach*, Green and Silverman](http://www.amazon.com/Nonparametric-Regression-Generalized-Linear-Models/dp/0412300400/)
 
 [*An Introduction to the Bootstrap*, Efron and Tibshirani](http://www.amazon.com/Introduction-Bootstrap-Monographs-Statistics-Probability/dp/0412042312/)
@@ -22,7 +24,7 @@ I recommend reading the following books in the order they are listed.  As of now
 
 [*Elements of Statistical Learning*, Hastie, Tibshirani, and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
-[*Advanced R*, Wickham](http://adv-r.had.co.nz)
+[*Learn Pythin](http://www.learnpython.org)
 
 [*Bayesian Data Analysis*, Gelman et al.](http://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/)
 
