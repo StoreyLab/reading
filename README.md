@@ -118,9 +118,9 @@ The [Simply Statistics](http://simplystatistics.org) team have written a bunch o
 
 # Storey Articles
 
-I suggest you read these papers before joining.  They are fundamental to the research that we do.
+I suggest you read these papers before joining the lab.  They are fundamental to the research that we do.
 
-Efron B, Tibshirani R, Storey JD, and Tusher V. (2001) Empirical Bayes analysis of a microarray experiment. Journal of the American Statistical Association, 96: 1151–1160. 
+Efron B, Tibshirani R, Storey JD, and Tusher V. (2001) Empirical Bayes analysis of a microarray experiment. Journal of the American Statistical Association, 96: 1151–1160. [[PDF]](.)
 
 Storey JD. (2002) A direct approach to false discovery rates. Journal of the Royal Statistical Society, Series B, 64: 479–498. 
 
