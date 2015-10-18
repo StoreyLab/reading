@@ -120,4 +120,43 @@ The [Simply Statistics](http://simplystatistics.org) team have written a bunch o
 
 I suggest you read these papers before joining.  They are fundamental to the research that we do.
 
+Efron B, Tibshirani R, Storey JD, and Tusher V. (2001) Empirical Bayes analysis of a microarray experiment. Journal of the American Statistical Association, 96: 1151–1160. 
 
+Storey JD. (2002) A direct approach to false discovery rates. Journal of the Royal Statistical Society, Series B, 64: 479–498. 
+
+Storey JD and Tibshirani R. (2003) Statistical significance for genome-wide studies.  Proceedings of the National Academy of Sciences, 100: 9440–9445.
+
+Storey JD. (2003) The positive false discovery rate: A Bayesian interpretation and the q-value. Annals of Statistics, 31: 2013–2035.
+
+Storey JD, Taylor JE, and Siegmund D. (2004) Strong control, conservative point estimation, and simultaneous conservative consistency of false discovery rates: A unified approach. Journal of the Royal Statistical Society, Series B, 66: 187–205. 
+
+Storey JD, Akey JM, and Kruglyak L. (2005) Multiple locus linkage analysis of genome-wide expression in yeast. PLoS Biology, 3: 1380–1390.
+
+Storey JD, Xiao W, Leek JT, Tompkins RG, and Davis RW. (2005) Significance analysis of time course microarray experiments.  Proceedings of the National Academy of Sciences, 102: 12837–12842.
+
+Storey JD, Dai JY, and Leek JT. (2007) The optimal discovery procedure for large-scale significance testing, with applications to comparative microarray experiments. Biostatistics, 8: 414–432.  
+
+Akey JM, Biswas S, Leek JT, and Storey JD. (2007) On the design and analysis of expression studies in human populations. Nature Genetics, 39: 807–808. 
+
+Leek JT and Storey JD. (2007) Capturing heterogeneity in gene expression studies by surrogate variable analysis.  PLoS Genetics, 3: e161.   
+
+Chen LS, Emmert-Streib F, and Storey JD. (2007) Harnessing naturally randomized transcription to infer regulatory relationships among genes.  Genome Biology, 8: R219. 
+
+Leek JT and Storey JD. (2008) A general framework for multiple testing dependence. Proceedings of the National Academy of Sciences, 105: 18718–18723.
+
+Mecham BH, Nelson P, and Storey JD (2010) Supervised normalization of microarrays. Bioinformatics, 26: 1308–1315.
+Woo S, Leek JT, and Storey JD (2011) A computationally efficient modular optimal discovery procedure. Bioinformatics, 27: 509–515.
+
+Leek JT and Storey JD (2011) The joint null criterion for multiple hypothesis tests.  Statistical Applications in Genetics and Molecular Biology, 10: Art 28. 
+
+Desai KH, Tan CS, Leek JT, Maier RV, Tompkins RG, and Storey JD (2011) Within-patient gene expression dynamics explain subsequent inflammatory complications in critically injured patients: A longitudinal clinical genomics study. PLoS Medicine, 8(9): e1001093.
+
+Desai KH and Storey JD. (2012) Cross-dimensional inference of dependent high-dimensional data. Journal of the American Statistical Association, 107(497): 135–151.
+
+Hao W, Song M, and Storey JD. (2013) Probabilistic models of genetic variation in structured populations applied to global human studies.  arXiv: 1312.2041.
+
+Marstrand TT and Storey JD. (2014) Identifying and mapping cell-type specific chromatin programming of gene expression. Proceedings of the National Academy of Sciences, 111(6): E645-E654.
+
+Chung NC and Storey JD. (2014) Statistical significance of variables driving systematic variation. Bioinformatics, doi: 10.1093/bioinformatics/btu674.
+
+Song M, Hao W, and Storey JD. (2015) Testing for genetic associations in arbitrarily structured populations. Nature Genetics, 10.1038/ng.3244 (also:  bioRxiv, doi: 10.1101/012682).
