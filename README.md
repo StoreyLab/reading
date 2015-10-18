@@ -116,7 +116,7 @@ The [Simply Statistics](http://simplystatistics.org) team have written a bunch o
 
 ## Other
 
-# Storey Articles
+# Storey Lab Articles
 
 I suggest you read these papers before joining the lab.  They are fundamental to the research that we do.
 
