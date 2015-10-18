@@ -78,9 +78,18 @@ As above, I recommend reading the following books in the order they are listed. 
 
 [*Graphical Models, Exponential Families, and Variational Inference*, Wainwright and Jordan](http://www.nowpublishers.com/article/Details/MAL-001)
 
+[*Probabilistic Graphical Models: Principles and Techniques*, Koller and Friedman](http://amzn.com/0262013193)
+
+[*Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction*, Imbens and Rubin](http://amzn.com/0521885884)
+
+[*Causality: Models, Reasoning and Inference*, Pearl](http://amzn.com/052189560X)
+
+[*Causation, Prediction, and Search*, Spirtes, Glymour, and Scheines](http://amzn.com/0262194406)
+
 [*lme4: Mixed-effects modeling with R*, Bates](http://lme4.r-forge.r-project.org/lMMwR/lrgprt.pdf)
 
 [*Statistical Analysis with Missing Data*, Little and Rubin](http://amzn.com/0471183865)
+
 
 ## Simply Statistics
 
