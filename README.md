@@ -78,6 +78,10 @@ As above, I recommend reading the following books in the order they are listed. 
 
 [*Graphical Models, Exponential Families, and Variational Inference*, Wainwright and Jordan](http://www.nowpublishers.com/article/Details/MAL-001)
 
+[*lme4: Mixed-effects modeling with R*, Bates](http://lme4.r-forge.r-project.org/lMMwR/lrgprt.pdf)
+
+[*Statistical Analysis with Missing Data*, Little and Rubin](http://amzn.com/0471183865)
+
 ## Simply Statistics
 
 The [Simply Statistics](http://simplystatistics.org) team have written a bunch of awesome books recently.  I recommend checking out all of them.
