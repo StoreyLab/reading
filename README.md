@@ -140,7 +140,7 @@ Akey JM, Biswas S, Leek JT, and Storey JD. (2007) On the design and analysis of 
 
 Leek JT and Storey JD. (2007) Capturing heterogeneity in gene expression studies by surrogate variable analysis.  PLoS Genetics, 3: e161. [[PDF]](http://genomine.org/papers/Leek_Storey_PlosGen_2007.pdf)
 
-Chen LS, Emmert-Streib F, and Storey JD. (2007) Harnessing naturally randomized transcription to infer regulatory relationships among genes.  Genome Biology, 8: R219.  [[PDF]](http://bioinformatics.oxfordjournals.org/content/24/19/2260.full.pdf)
+Chen LS, Emmert-Streib F, and Storey JD. (2007) Harnessing naturally randomized transcription to infer regulatory relationships among genes.  Genome Biology, 8: R219.  [[PDF]](http://genomine.org/papers/Chen_etal_GB_2007.pdf)
 
 Leek JT and Storey JD. (2008) A general framework for multiple testing dependence. Proceedings of the National Academy of Sciences, 105: 18718–18723. [[PDF]](http://www.pnas.org/content/105/48/18718.full.pdf?with-ds=yes)
 
